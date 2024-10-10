@@ -1,2 +1,2 @@
 # Radiation-Analysis
-Python script to analyzed measured radiation data
+Python script written to analyze measured radiation data
